@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/morammounika/static/css/main.0e882f65.css",
-    "main.js": "/morammounika/static/js/main.a52b3a7b.js",
-    "static/media/Mounika-photo.jpg": "/morammounika/static/media/Mounika-photo.a7eeb14ed1bea98bc18d.jpg",
-    "static/media/C.png": "/morammounika/static/media/C.c0da8156a8d17281c29e.png",
-    "static/media/python.png": "/morammounika/static/media/python.6cd7959dfc13675ee994.png",
-    "static/media/java.webp": "/morammounika/static/media/java.ab08453469d008c0d267.webp",
-    "static/media/sql.webp": "/morammounika/static/media/sql.cb97ebbb375d206313d7.webp",
-    "index.html": "/morammounika/index.html",
-    "main.0e882f65.css.map": "/morammounika/static/css/main.0e882f65.css.map",
-    "main.a52b3a7b.js.map": "/morammounika/static/js/main.a52b3a7b.js.map"
+    "main.css": "/morammounika/profile/static/css/main.0e882f65.css",
+    "main.js": "/morammounika/profile/static/js/main.66c85a16.js",
+    "static/media/Mounika-photo.jpg": "/morammounika/profile/static/media/Mounika-photo.a7eeb14ed1bea98bc18d.jpg",
+    "static/media/C.png": "/morammounika/profile/static/media/C.c0da8156a8d17281c29e.png",
+    "static/media/python.png": "/morammounika/profile/static/media/python.6cd7959dfc13675ee994.png",
+    "static/media/java.webp": "/morammounika/profile/static/media/java.ab08453469d008c0d267.webp",
+    "static/media/sql.webp": "/morammounika/profile/static/media/sql.cb97ebbb375d206313d7.webp",
+    "index.html": "/morammounika/profile/index.html",
+    "main.0e882f65.css.map": "/morammounika/profile/static/css/main.0e882f65.css.map",
+    "main.66c85a16.js.map": "/morammounika/profile/static/js/main.66c85a16.js.map"
   },
   "entrypoints": [
     "static/css/main.0e882f65.css",
-    "static/js/main.a52b3a7b.js"
+    "static/js/main.66c85a16.js"
   ]
 }
